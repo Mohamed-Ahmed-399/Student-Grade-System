@@ -7,5 +7,10 @@
             Console.WriteLine($"Student: {studentName}");
             Console.WriteLine($"Grade: {grade}"); 
         }
+
+        public void PrintGradeStatus()
+        {
+            Console.WriteLine("Status: Passed");
+        }
     }
 }
