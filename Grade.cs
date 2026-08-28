@@ -4,7 +4,8 @@
     {
         public void PrintGrade(string studentName, int grade)
         {
-            Console.WriteLine($"Student: {studentName}, Grade: {grade}");
+            Console.WriteLine($"Student: {studentName}");
+            Console.WriteLine($"Grade: {grade}"); 
         }
     }
 }
