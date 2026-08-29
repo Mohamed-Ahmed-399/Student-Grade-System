@@ -1,3 +1,4 @@
 ﻿Project notes:
 This file is only for personal notes.
 A new line added to Notes.txt
+Another line added 
